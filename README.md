@@ -10,3 +10,5 @@ typed.js
 [iconsax](https://github.com/muhammadlailil/iconsax)
 
 chart.js
+
+wow.js
