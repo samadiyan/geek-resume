@@ -688,6 +688,18 @@ section {
     animation-duration: 1s;
 }
 
+.w65 {
+    width: 65%;
+    animation-name: w65;
+    animation-duration: 1s;
+}
+
+.w40 {
+    width: 40%;
+    animation-name: w40;
+    animation-duration: 1s;
+}
+
 @keyframes w85 {
     0% {
         width: 0%;
@@ -725,6 +737,24 @@ section {
 
     100% {
         width: 100%
+    }
+}
+@keyframes w65 {
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 65%
+    }
+}
+@keyframes w40 {
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 40%
     }
 }
 
